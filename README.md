@@ -10,6 +10,7 @@ Find the full case studies on [https://8weeksqlchallenge.com/](https://8weeksqlc
 
 ## :books: Case Studies
 
-- [:ramen: Case Study 1 - Danny's Diner](/https://github.com/Monikayadav1999/8-Week-SQL-Challenge/tree/1ff5434e7ec95a1799e2df517b19a4b68d3682cb/Case%20Study%201%20-%20Danny%20Diner%20Challenge/)
+- [:ramen: Case Study 1 - Danny's Diner](/https://github.com/Monikayadav1999/8-Week-SQL-Challenge/tree/main/Case%20Study%201%20-%20Danny%20Diner%20Challenge/)
+
   
 ---
