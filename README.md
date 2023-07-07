@@ -1,4 +1,4 @@
-<p align="center" width="100%">
+<p align="left" width="100%">
     <img width="10%" src="https://8weeksqlchallenge.com/images/data-with-danny-logo.png">
 </p>
 
